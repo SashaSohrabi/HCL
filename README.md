@@ -2,12 +2,12 @@
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/btkrausen#%E2%80%8D-%E2%80%8D-video-courses-%E2%80%8D-%E2%80%8D) [![Github Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/btkrausen?frequency=one-time&sponsor=btkrausen)
 
-## HashiCorp Terraform Labs
+## HashiCorp Certified: Terraform Associate 004 Labs
 
 [![Teraform Version](https://img.shields.io/badge/Terraform%201.12.2-Tested-grey?style=flat&logo=terraform&logoColor=white&labelColor=purple)](https://releases.hashicorp.com/terraform/1.12.2/)
 [![Terraform Tests](https://github.com/btkrausen/terraform-testing/actions/workflows/aws_lab_validation.yml/badge.svg)](https://github.com/btkrausen/terraform-testing/actions/workflows/aws_lab_validation.yml)
 
-Welcome to this HashiCorp Terraform lab repo, where you can get hands-on experience with **HashiCorp Terraform** using GitHub Codespaces. In this repository, you’ll find a variety of [labs](./labs) that walk you through learning and using HashiCorp Terraform in different scenarios.
+Welcome to this HashiCorp Certified: Terraform Associate 004 lab repo, where you can get hands-on experience with **HashiCorp Terraform** using GitHub Codespaces. In this repository, you’ll find a variety of [labs](./labs) that walk you through learning and using HashiCorp Terraform in different scenarios.
 
 **Note:** GitHub provides users with 120 core hours for FREE per month. [Check your current consumption of hours here](https://github.com/settings/billing/summary#:~:text=%240.00-,Codespaces,-Included%20quotas%20reset). Additionally, you can [set a limit of spending for Codespaces on your account here](https://github.com/settings/billing/spending_limit#:~:text=Spending%20limit%20alerts-,Codespaces,-Limit%20spending).
 
