@@ -62,31 +62,6 @@ These labs are fully self-contained and can be completed in any order.
 | 7 | Simplify Code with `Local` Values | [AWS](./labs/lab_07_simplify_code_with_local_values/AWS/aws.md) | [Azure](./labs/lab_07_simplify_code_with_local_values/AZURE/azure.md) | [GitHub](./labs/lab_07_simplify_code_with_local_values/GITHUB/github.md) |
 | 8 | Deploying Mulitple Resources with `for each` | [AWS](./labs/lab_08_deploying_mulitple_resources_with_for_each/AWS/aws.md) | [Azure](./labs/lab_08_deploying_mulitple_resources_with_for_each/AZURE/azure.md) | [GitHub](./labs/lab_08_deploying_mulitple_resources_with_for_each/GITHUB/github.md) |
 
-## ⚙️ Working with Terraform Modules ⚙️
-
-These labs are fully self-contained and can be completed in any order.
-
-| **#** | **Lab Name**                                 |                           **AWS**                            |                             **Azure**                              |                              **GitHub**                               |
-| :---: | :-------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------------: | :-------------------------------------------------------------------: |
-|  14   | Using Modules in the Terraform Registry | [AWS](./labs/lab_14_using_the_terraform_registry/AWS/aws.md) | [Azure](./labs/lab_14_using_the_terraform_registry/AZURE/azure.md) | [GitHub](./labs/lab_14_using_the_terraform_registry/GITHUB/github.md) |
-|  15   | Build Your Own Local Modules            |    [AWS](./labs/lab_15_build_your_own_modules/AWS/aws.md)    |    [Azure](./labs/lab_15_build_your_own_modules/AZURE/azure.md)    |    [GitHub](./labs/lab_15_build_your_own_modules/GITHUB/github.md)    |
-
-<br/>
-
-## 🔧 Managing and Maintaining Your Terraform Code 🔧
-
-These labs are fully self-contained and can be completed in any order.
-
-| **#** | **Lab Name**                          |                             **AWS**                              |                               **Azure**                                |                                **GitHub**                                 |
-| :---: | :------------------------------- | :--------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|  16   | Replacing a Single Resource | [AWS](./labs/lab_16_replace_a_single_resource/AWS/aws.md) | [Azure](./labs/lab_16_replace_a_single_resource/AZURE/azure.md) | [GitHub](./labs/lab_16_replace_a_single_resource/GITHUB/github.md) |
-|  17   | Upgrading a Provider and Module | Coming Soon | Coming Soon | Coming Soon |
-|  18   | Importing an Existing Resource | Coming Soon | Coming Soon | Coming Soon |
-|  19   | Migrating State to a New Backend | Coming Soon | Coming Soon | Coming Soon |
-|  20   | Using Terraform Workspaces | Coming Soon | Coming Soon | Coming Soon |
-|  21   | Using Terraform Logging | Coming Soon | Coming Soon | Coming Soon |
-<br/> -->
-
 ---
 
 ## Contributing
