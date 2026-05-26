@@ -1,4 +1,4 @@
-# LAB-09-AWS: Creating and Managing Resources with the For_Each Meta-Argument
+# LAB-08-AWS: Creating and Managing Resources with the For_Each Meta-Argument
 
 ## Overview
 In this lab, you will learn how to use Terraform's `for_each` meta-argument to create and manage multiple resources efficiently. You'll discover how `for_each` differs from `count` and when to use each approach. The lab uses AWS free-tier resources to ensure no costs are incurred.
