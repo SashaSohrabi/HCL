@@ -60,14 +60,7 @@ These labs are fully self-contained and can be completed in any order.
 | :---: | :---------------------------------------------------- | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
 | 6 | Making Code Dynamic and Reusable | [AWS](./labs/lab_06_making_code_dynamic_and_reusable/AWS/aws.md) | [Azure](./labs/lab_06_making_code_dynamic_and_reusable/AZURE/azure.md) | [GitHub](./labs/lab_06_making_code_dynamic_and_reusable/GITHUB/github.md) |
 | 7 | Simplify Code with `Local` Values | [AWS](./labs/lab_07_simplify_code_with_local_values/AWS/aws.md) | [Azure](./labs/lab_07_simplify_code_with_local_values/AZURE/azure.md) | [GitHub](./labs/lab_07_simplify_code_with_local_values/GITHUB/github.md) |
-<!-- 
-| 9 | Deploy Mulitple Resources with `for_each` | [AWS](./labs/lab_09_deploying_mulitple_resources_with_for_each/AWS/aws.md) | [Azure](./labs/lab_09_deploying_mulitple_resources_with_for_each/AZURE/azure.md) | [GitHub](./labs/lab_09_deploying_mulitple_resources_with_for_each/GITHUB/github.md) |
-| 10 | Managing Explicit Dependencies with `depends_on` | [AWS](./labs/lab_10_managing_explicit_dependencies_with_depends_on/AWS/aws.md) | [Azure](./labs/lab_10_managing_explicit_dependencies_with_depends_on/AZURE/azure.md) | [GitHub](./labs/lab_10_managing_explicit_dependencies_with_depends_on/GITHUB/github.md) |
-| 11 | Using Multiple Providers for Mulitple Regions | [AWS](./labs/lab_11_using_multiple_providers_for_mulitple_regions/AWS/aws.md) | [Azure](./labs/lab_11_using_multiple_providers_for_mulitple_regions/AZURE/azure.md) | [GitHub](./labs/lab_11_using_multiple_providers_for_mulitple_regions/GITHUB/github.md) |
-| 12 | Managing Resource Lifecycle using `lifecycle` | [AWS](./labs/lab_12_managing_resource_lifecycle_using_lifecyle/AWS/aws.md) | [Azure](./labs/lab_12_managing_resource_lifecycle_using_lifecyle/AZURE/azure.md) | [GitHub](./labs/lab_12_managing_resource_lifecycle_using_lifecyle/GITHUB/github.md) |
-| 13 | Using Terraform Built-In Functions | [AWS](./labs/lab_13_using_terraform_built_in_functions/AWS/aws.md) | [Azure](./labs/lab_13_using_terraform_built_in_functions/AZURE/azure.md) | [GitHub](./labs/lab_13_using_terraform_built_in_functions/GITHUB/github.md) | -->
-
-<!-- <br/>
+| 8 | Deploying Mulitple Resources with `for each` | [AWS](./labs/lab_08_deploying_mulitple_resources_with_for_each/AWS/aws.md) | [Azure](./labs/lab_08_deploying_mulitple_resources_with_for_each/AZURE/azure.md) | [GitHub](./labs/lab_08_deploying_mulitple_resources_with_for_each/GITHUB/github.md) |
 
 ## ⚙️ Working with Terraform Modules ⚙️
 
