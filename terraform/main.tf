@@ -10,3 +10,13 @@ resource "aws_vpc" "main" {
   }
 }
 
+resource "aws_subnet" "public" {
+  vpc_id            = aws_vpc.main.id
+  cidr_block        = var.public_subnet_cidrs
+  availability_zone = var.availability_zone
+
+  tags = {
+    Name        = "terraform-course-public-subnet"
+    Environment = var.environment
+  }
+}
