@@ -1,13 +1,13 @@
 variable "vpc_cidr" {
   description = "CIDR block for the VPC"
   type        = string
-  default     = "192.168.0.0/16"
+  default     = "10.0.0.0/16"
 }
 
 variable "environment" {
   description = "Environment tag for resources"
   type        = string
-  default     = "learning-terraform"
+  default     = "development"
 }
 
 variable "public_subnet_cidr" {
@@ -25,5 +25,5 @@ variable "private_subnet_cidr" {
 variable "availability_zone" {
   description = "Availability Zone for subnets"
   type        = string
-  default     = "us-east-1a"
+  default     = "eu-central-1a"
 }
