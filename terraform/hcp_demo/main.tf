@@ -4,7 +4,8 @@ resource "aws_vpc" "main" {
   enable_dns_hostnames = true
 
   tags = {
-    Name = "main-vpc"
+    Name        = "main-vpc"
+    Environment = "dev"
   }
 }
 
@@ -14,7 +15,8 @@ resource "aws_subnet" "private" {
   availability_zone = var.private_subnet_az
 
   tags = {
-    Name = "private-subnet"
+    Name        = "private-subnet"
+    Environment = "dev"
   }
 }
 
@@ -24,6 +26,7 @@ resource "aws_subnet" "public" {
   availability_zone = var.public_subnet_az
 
   tags = {
-    Name = "public-subnet"
+    Name        = "public-subnet"
+    Environment = "dev"
   }
 }
